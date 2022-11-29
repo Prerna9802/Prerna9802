@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Prerna9802
+- 👋 Hi, I’m Prerna!!
 - 👀 I’m interested in Web Dev and Competitive Coding
 - 🌱 I’m currently learning AI, FullStack & Linux
 - 💞️ I’m looking to collaborate on Web Dev projects
